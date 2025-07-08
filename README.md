@@ -1,14 +1,20 @@
     
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkenkang99%3Ftab%3Doverview%26from%3D2025-06-01%26to%3D2025-06-30&label=Visitors&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Check%20My%20Profile!&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Check%20My%20Profile&fontAlign=40&fontAlignY=40&color=gradient)
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 본문내용 </div> 
     </div>
 
+### 🏫 History
+------------------------------------------------------------------------------------------------
+
+
+
 ### 🦾 Skills
+------------------------------------------------------------------------------------------------
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-❓-grey?style=for-the-badge&logo=openjdk&logoColor=black)
