@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkenkang99%3Ftab%3Doverview%26from%3D2025-06-01%26to%3D2025-06-30&label=Visitors&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+
 <!--
 **kenkang99/kenkang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkenkang99%3Ftab%3Doverview%26from%3D2025-06-01%26to%3D2025-06-30&label=Visitors&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 Here are some ideas to get you started:
 
