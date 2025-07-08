@@ -1,8 +1,12 @@
-### Hi there 👋
-
+    
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkenkang99%3Ftab%3Doverview%26from%3D2025-06-01%26to%3D2025-06-30&label=Visitors&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Check%20My%20Profile!&fontAlign=40&fontAlignY=40&color=gradient)
+
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 본문내용 </div> 
+    </div>
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
@@ -45,6 +49,18 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ihkangg)](https://solved.ac/profile/ihkangg)
+
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
+         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+</div>
+
+
+
 
 <!--
 **kenkang99/kenkang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
