@@ -5,11 +5,37 @@
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 본문내용 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요. AI 엔지니어라는 꿈을 향해 달려가고 있는 강인혁입니다. </div> 
     </div>
 
 ### 🏫 History
 ------------------------------------------------------------------------------------------------
+**2020.03 ~ 2025.08 숭실대학교 산업정보시스템공학과 학사과정**  
+**2020.03 ~ 2020.12 숭실대학교 산업정보시스템공학과 학생회 기획부원**   
+**2021.02 ~ 2022.08 대한민국 육군 병장 만기 전역**  
+**2023.01 ~ 2024.12 숭실대학교 산업정보시스템공학 축구소모임IESC 회장**  
+**2023.03 ~ 2025.08 숭실대학교 산업정보시스템공학 U-Biz Computing Lab 학부연구생**  
+**2024.03 ~ 2024.07 4차 산업혁명 학술동아리 TAVE 13기 수료**  
+**2024.03 ~ 2024.09 빅데이터 분석 학회 BDA 8기 수료**  
+**2024.08 ~  빅데이터 및 인공지능 학술동아리 BITAmin 부원**  
+**2024.09 ~ 2024.12 주식회사 클루 인턴 재직(AI 엔지니어 및 연구원)**  
+**2025.07 ~ 우리FISA AI엔지니어링 kdt과정 수강생**  
+
+
+### 🏆 Certificate
+------------------------------------------------------------------------------------------------
+**2020년도 숭실대학교주관 언택트시대, 온라인그룹 활동발표 경진대회 장려상**  
+**2023년도 한국전자거래학회 디지털플랫폼 경제시대의 전자상거래 산업 발전 대학(원)생 아이디어 공모전 우수상**  
+**2023년도 밀양시 공공데이터 활용 아이디어-분석 공모전 우수상**  
+**2023.12.13 MOS expert 2016(Excel) 취득**  
+**2025.04.09 SQL Developer 취득**  
+**2025.06.13 데이터 분석 준전문가(ADSP) 취득**  
+**2025.07.11 빅데이터분석기사 취득**  
+
+
+
+
+
 
 
 
@@ -49,9 +75,11 @@
 
 ![kenkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkang99&show_icons=true&theme=cobalt)
 
+<!-- !
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenkang99&layout=donut-vertical)](https://github.com/kenkang99/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenkang99&layout=compact)
+-->
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ihkangg)](https://solved.ac/profile/ihkangg)
