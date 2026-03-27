@@ -4,7 +4,7 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20Data%20Scientist&fontSize=38&fontAlign=50&fontAlignY=38&color=gradient)
 
 # 안녕하세요, 강인혁입니다. 👋 
-데이터 처리 및 분석부터 추천 시스템, LLM, CV, Agent, 자동화, 데이터 파이프라인, MLOps까지 아우르며 AI 서비스를 개발하는 AI/Data Engineer & Data Scientist를 꿈꿉니다.  
+데이터 처리 및 분석부터 추천 시스템, LLM, CV, Agent, 자동화, 데이터 파이프라인, MLOps까지 아우르며 AI 서비스를 개발해왔습니다.  
 산업공학 과정에서 다진 문제해결력과 협업 역량을 바탕으로, 폭넓은 기술을 실제 서비스로 연결하는 개발을 지향합니다.
 
 
